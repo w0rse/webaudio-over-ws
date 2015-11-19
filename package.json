@@ -1,0 +1,15 @@
+{
+  "name": "ws-test",
+  "version": "0.0.0",
+  "description": "",
+  "main": "ws-test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.12.4",
+    "socket.io": "^1.3.5"
+  }
+}
